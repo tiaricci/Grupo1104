@@ -2,6 +2,8 @@
 
 int main(){
   printf("\nHola Mundo");
-  printf("\nFernada Fragoso\n")
+  
+  printf("\nNO. LISTA. COLOCA TU NOMBRE AQUÍ\n");
+  
   return 0;
 }
