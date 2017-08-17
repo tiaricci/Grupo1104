@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main(){
+  printf("\nHOLA BEBE");
+  printf("\nSalvador Urbina\n")
+  return 0
+}
